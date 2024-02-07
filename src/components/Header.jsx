@@ -11,7 +11,7 @@ export default function Header() {
 						<img width="38" src={pizzaLogo} alt="Pizza logo" />
 						<div>
 							<h1>React Pizza</h1>
-							<p>самая вкусная пицца в Воронеже</p>
+							<p>самая вкусная пицца в мире {`:)`}</p>
 						</div>
 					</div>
 				</Link>
